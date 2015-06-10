@@ -1,7 +1,15 @@
+/* line 1, ../sass/style.sass */
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+
+/* line 4, ../sass/style.sass */
 a {
-  color: #00b7ff;
+  color: #00B7FF;
+}
+
+/* line 7, ../sass/style.sass */
+p {
+  color: red;
 }
